@@ -1,1 +1,6 @@
-
+{
+  "latest": "0.1.0",
+  "min": "0.1.0",
+  "live_min": "0.1.0",
+  "min_version_code": 1
+}
